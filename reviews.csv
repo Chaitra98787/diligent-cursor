@@ -1,0 +1,6 @@
+﻿review_id,product_id,customer_id,rating,comment,review_date
+r1,p1,c1,5,"Very handy notebook",2025-05-02
+r2,p2,c2,4,"Good mouse",2025-05-03
+r3,p3,c3,3,"Average mug",2025-05-07
+r4,p5,c4,5,"Works well",2025-05-11
+r5,p3,c2,4,"Nice design",2025-05-04

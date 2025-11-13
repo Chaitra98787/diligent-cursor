@@ -1,0 +1,6 @@
+﻿customer_id,name,email,signup_date,country
+c1,Alice Kumar,alice.kumar@example.com,2024-01-15,India
+c2,Ravi Patel,ravi.patel@example.com,2024-03-02,India
+c3,Sana Iyer,sana.iyer@example.com,2024-02-10,India
+c4,Dev Singh,dev.singh@example.com,2024-04-01,India
+c5,Meera Rao,meera.rao@example.com,2024-05-20,India

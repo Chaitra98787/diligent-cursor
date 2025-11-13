@@ -1,0 +1,6 @@
+﻿order_id,customer_id,order_date,total_amount,status
+o1,c1,2025-05-01,58.00,delivered
+o2,c2,2025-05-02,85.00,delivered
+o3,c1,2025-05-05,100.00,processing
+o4,c3,2025-05-06,55.00,delivered
+o5,c4,2025-05-10,80.00,delivered
